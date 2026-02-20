@@ -1,3 +1,10 @@
+# Disclaimer
+
+Users utilize this repository entirely at their own risk, and the author assumes no liability for any damages, misconfigurations, or operational issues resulting from its use.
+
+-   Limitation of Liability
+-   Use at Your Own Risk
+-   No Warranty Disclaimer
 
 # FortiGate WAN1 Disable/Enable Script (Original Version)
 
@@ -9,6 +16,7 @@ The script connects to a FortiGate firewall via SSH and performs:
 3. Re-enable interface `wan1`
 
 It uses `sshpass` for non‑interactive password authentication.
+More about this script: https://defencedev.com/network-tutorials/fortigate/fortigate-ubuntu-bash-automation/
 
 ## Features
 - Simple SSH automation
@@ -41,3 +49,9 @@ Use with caution and preferably only inside isolated or test environments.
 chmod +x fgt_gw_check.sh
 ./fgt_gw_check.sh
 ```
+
+## Author
+
+DefenceDev\
+Infrastructure & Network Automation\
+https://defencedev.com

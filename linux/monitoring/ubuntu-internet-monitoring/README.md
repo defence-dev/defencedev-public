@@ -179,7 +179,7 @@ Log file naming format:
 
 ## License
 
-Add your preferred license (MIT, Apache-2.0, etc.)
+
 
 ------------------------------------------------------------------------
 
