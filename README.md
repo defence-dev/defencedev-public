@@ -6,6 +6,14 @@ published on **https://defencedev.com**.
 This repository contains production-ready scripts, infrastructure
 tooling, and practical implementations referenced in blog articles.
 
+# Disclaimer
+
+Users utilize this repository entirely at their own risk, and the author assumes no liability for any damages, misconfigurations, or operational issues resulting from its use.
+
+-   Limitation of Liability
+-   Use at Your Own Risk
+-   No Warranty Disclaimer
+
 ------------------------------------------------------------------------
 
 ## Purpose
@@ -110,8 +118,6 @@ issue in the repository.
 ------------------------------------------------------------------------
 
 ## License
-
-Specify your license here (e.g., MIT, Apache-2.0, etc.).
 
 ------------------------------------------------------------------------
 
