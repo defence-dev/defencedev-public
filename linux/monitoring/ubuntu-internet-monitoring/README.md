@@ -13,6 +13,14 @@ The script is lightweight and suitable for servers, remote locations,
 edge devices, homelabs, and infrastructure monitoring setups.
 
 More about this script: https://defencedev.com/projects/wordpress/wordpress-automatically-website-backup-script/
+
+# Disclaimer
+
+Users utilize this repository entirely at their own risk, and the author assumes no liability for any damages, misconfigurations, or operational issues resulting from its use.
+
+-   Limitation of Liability
+-   Use at Your Own Risk
+-   No Warranty Disclaimer
 ------------------------------------------------------------------------
 
 ## Features
