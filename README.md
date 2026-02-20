@@ -1,11 +1,3 @@
-# DefenceDev Code Repository
-
-Official code repository for solutions, scripts, and automation examples
-published on **https://defencedev.com**.
-
-This repository contains production-ready scripts, infrastructure
-tooling, and practical implementations referenced in blog articles.
-
 # Disclaimer
 
 Users utilize this repository entirely at their own risk, and the author assumes no liability for any damages, misconfigurations, or operational issues resulting from its use.
@@ -13,6 +5,14 @@ Users utilize this repository entirely at their own risk, and the author assumes
 -   Limitation of Liability
 -   Use at Your Own Risk
 -   No Warranty Disclaimer
+
+# DefenceDev Code Repository
+
+Official code repository for solutions, scripts, and automation examples
+published on **https://defencedev.com**.
+
+This repository contains production-ready scripts, infrastructure
+tooling, and practical implementations referenced in blog articles.
 
 ------------------------------------------------------------------------
 
