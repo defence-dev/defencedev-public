@@ -1,3 +1,11 @@
+# Disclaimer
+
+Users utilize this repository entirely at their own risk, and the author assumes no liability for any damages, misconfigurations, or operational issues resulting from its use.
+
+-   Limitation of Liability
+-   Use at Your Own Risk
+-   No Warranty Disclaimer
+
 # DefenceDev Code Repository
 
 Official code repository for solutions, scripts, and automation examples
@@ -110,8 +118,6 @@ issue in the repository.
 ------------------------------------------------------------------------
 
 ## License
-
-Specify your license here (e.g., MIT, Apache-2.0, etc.).
 
 ------------------------------------------------------------------------
 
