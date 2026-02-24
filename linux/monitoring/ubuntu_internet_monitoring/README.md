@@ -20,7 +20,7 @@ automatically rotates log files on a daily basis.
 The script is lightweight and suitable for servers, remote locations,
 edge devices, homelabs, and infrastructure monitoring setups.
 
-More about this script: https://defencedev.com/projects/wordpress/wordpress-automatically-website-backup-script/
+More about this script: https://defencedev.com/solutions/solution-ubuntu-internet-monitoring-script/
 
 
 ------------------------------------------------------------------------
